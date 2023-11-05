@@ -1,6 +1,8 @@
 # Technical-Documentation
 Technical documentation page for Java Script basics and fundamentals. focusing on functional fixed nav bar that navigates you to different sections of the page. 
 
+Take a look at the page <a href="https://moonlightwaltz.github.io/Technical-Documentation/">here</a>
+
 What I used to make this page:
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
